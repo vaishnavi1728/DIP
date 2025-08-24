@@ -24,5 +24,31 @@ This project explores **digital image restoration methods** to recover images de
 - **Morphological Operations** → Helps reduce isolated noise points.  
 
 ---
+📊 Results
 
+Inverse Filtering: Works well without noise but degrades in noisy conditions.
+
+Wiener Filtering: Restores motion-blurred images effectively, even with added noise.
+
+MRMF: Outperforms standard median filter at higher noise levels, preserving edges and structures.
+
+
+📖 Applications
+
+Medical imaging (MRI, CT scans)
+
+Satellite and astronomical imaging
+
+Surveillance and forensic video enhancement
+
+Media and photography post-processing
+
+
+👨‍💻 Contributors
+
+Honey Bohra – SVNIT Surat
+
+Chanugonipalli Vaishnavi – SVNIT Surat
+
+Kolli Yaswanth – SVNIT Surat
 
